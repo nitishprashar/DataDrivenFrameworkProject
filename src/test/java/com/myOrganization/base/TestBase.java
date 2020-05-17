@@ -227,12 +227,34 @@ public void select(String locator, String value) {
 		dropdown= driver.findElement(By.linkText(OR.getProperty(locator)));
 	}
 	
+	if(dropdown.isEnabled() && !dropdown.isSelected()) {
+	
 	Select select= new Select(dropdown);
 	select.selectByVisibleText(value);
-	
+	}
 	test.log(LogStatus.INFO, "Selecting from Dropdown---"+locator+ "   value as--"+value);
 }
 	
+	static WebElement radio;
+	
+public void radioselect(String locator) {
+	if(locator.endsWith("_CSS")) {
+		radio= driver.findElement(By.cssSelector(OR.getProperty(locator)));
+	} else if(locator.endsWith("_XPATH")) {
+		radio= driver.findElement(By.xpath(OR.getProperty(locator)));
+	}  else if(locator.endsWith("_ID")) {
+		radio= driver.findElement(By.id(OR.getProperty(locator)));
+	}  else if(locator.endsWith("_NAME")) {
+		radio= driver.findElement(By.name(OR.getProperty(locator)));
+	} else if(locator.endsWith("_LINK")) {
+		radio= driver.findElement(By.linkText(OR.getProperty(locator)));
+	}
+	
+	if(radio.isEnabled() && !radio.isSelected()) {
+		
+		radio.click();
+	}
+}
 	
     @AfterSuite 
  	public void tearDown() {
