@@ -1,0 +1,54 @@
+[main] DEBUG devpinoyLogger: 71 - Config file loaded!!
+[main] DEBUG devpinoyLogger: 85 - Object repository file loaded!!
+[main] DEBUG devpinoyLogger: 93 - Testdata excel file loaded!!
+[main] DEBUG devpinoyLogger: 111 - Chrome launched!!
+[main] DEBUG devpinoyLogger: 122 - Opening URL---http://www.way2automation.com/angularjs-protractor/banking/#/login
+[main] DEBUG devpinoyLogger: 16 - Starting to execute testcase--- loginAsBankManager()
+[main] DEBUG devpinoyLogger: 21 - Successfully executed testcase--- loginAsBankManager()
+[main] DEBUG cache: 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG cache: 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/dell/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG devpinoyLogger: 28 - Executing Test case---addCustomer
+[main] DEBUG devpinoyLogger: 42 - Custommer added---Alert validated
+[main] DEBUG devpinoyLogger: 48 - Test case---addCustomer---successfully executed
+[main] DEBUG cache: 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG cache: 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/dell/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG devpinoyLogger: 28 - Executing Test case---addCustomer
+[main] DEBUG devpinoyLogger: 42 - Custommer added---Alert validated
+[main] DEBUG devpinoyLogger: 48 - Test case---addCustomer---successfully executed
+[main] DEBUG cache: 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG cache: 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/dell/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG cache: 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG cache: 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/dell/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG devpinoyLogger: 28 - Executing Test case---addCustomer
+[main] DEBUG devpinoyLogger: 42 - Custommer added---Alert validated
+[main] DEBUG devpinoyLogger: 48 - Test case---addCustomer---successfully executed
+[main] DEBUG cache: 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG cache: 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/dell/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG devpinoyLogger: 26 - Custommer account added---Alert validated
+[main] DEBUG cache: 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG cache: 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/dell/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG devpinoyLogger: 242 - Test Execution completed
+[main] DEBUG devpinoyLogger: 102 - Reports have been emailed
+[main] DEBUG cache: 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG cache: 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG cache: 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/dell/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

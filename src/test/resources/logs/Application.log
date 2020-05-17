@@ -1,0 +1,19 @@
+[main] DEBUG devpinoyLogger  - Config file loaded!!
+[main] DEBUG devpinoyLogger  - Object repository file loaded!!
+[main] DEBUG devpinoyLogger  - Testdata excel file loaded!!
+[main] DEBUG devpinoyLogger  - Chrome launched!!
+[main] DEBUG devpinoyLogger  - Opening URL---http://www.way2automation.com/angularjs-protractor/banking/#/login
+[main] DEBUG devpinoyLogger  - Starting to execute testcase--- loginAsBankManager()
+[main] DEBUG devpinoyLogger  - Successfully executed testcase--- loginAsBankManager()
+[main] DEBUG devpinoyLogger  - Executing Test case---addCustomer
+[main] DEBUG devpinoyLogger  - Custommer added---Alert validated
+[main] DEBUG devpinoyLogger  - Test case---addCustomer---successfully executed
+[main] DEBUG devpinoyLogger  - Executing Test case---addCustomer
+[main] DEBUG devpinoyLogger  - Custommer added---Alert validated
+[main] DEBUG devpinoyLogger  - Test case---addCustomer---successfully executed
+[main] DEBUG devpinoyLogger  - Executing Test case---addCustomer
+[main] DEBUG devpinoyLogger  - Custommer added---Alert validated
+[main] DEBUG devpinoyLogger  - Test case---addCustomer---successfully executed
+[main] DEBUG devpinoyLogger  - Custommer account added---Alert validated
+[main] DEBUG devpinoyLogger  - Test Execution completed
+[main] DEBUG devpinoyLogger  - Reports have been emailed
